@@ -1,4 +1,5 @@
----
+---version
+
 title: Working with a GitHub Packages registry
 shortTitle: Working with a GitHub Packages registry
 intro: 'Learn how to use a supported {% data variables.product.prodname_registry %} registry.'
